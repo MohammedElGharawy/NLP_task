@@ -1,4 +1,3 @@
-from flask import jsonify
 import ernie
 import pandas as pd
 from ernie import SentenceClassifier
